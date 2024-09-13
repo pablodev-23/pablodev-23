@@ -25,5 +25,14 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
     </div>
+    <p>Tengo experiencia trabajando en proyectos, como por ejemplo:</p>
+    <div align="center" style="padding: 0px 300px">
+        <img src="https://img.shields.io/badge/Aplicación%20de%20mapas%20para%20gestión%20de%20cámaras%20de%20seguridad-808080?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Gestor%20de%20licencias%20médicas-808080?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Sistema%20de%20gestión%20de%20proveedores-808080?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Plataforma%20para%20concesionarias-808080?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Bolillero%20de%20azar%20para%20eventos-808080?style=for-the-badge">
+        <img src="https://img.shields.io/badge/Página%20web%20de%20noticias%20deportivas%20con%20intranet-808080?style=for-the-badge">
+    </div>
     <p>Te invito a visitar mi <a href="https://pablo-fretes-portfolio.netlify.app/">portfolio web</a> o mi <a href="https://pablo-fretes-portfolio.netlify.app/assets/CV.PDF">CV</a> donde vas a conocer mas sobre mí</p>
 </div>
