@@ -2,7 +2,7 @@
     <h2>Bienvenido a mi Github 👋🏻</h1>
     <div align="center" style="padding: 0px 300px">
         <img src="https://img.shields.io/badge/DESARROLLADOR%20-7d5bdd?style=for-the-badge">
-        <img src="https://img.shields.io/badge/2%20~%20A%C3%91OS%20DE%20EXPERIENCIA%20EN%20EL%20RUBRO%20DEL%20FRONTEND-7d5bdd?style=for-the-badge">
+        <img src="https://img.shields.io/badge/3%20+%20A%C3%91OS%20DE%20EXPERIENCIA%20EN%20EL%20RUBRO%20DEL%20FRONTEND-7d5bdd?style=for-the-badge">
         <img src="https://img.shields.io/badge/ESTUDIANTE%20DE%20LA%20UBA%20EN%20LIC.%20EN%20CIENCIAS%20DE%20LA%20COMPUTACI%C3%93N-7d5bdd?style=for-the-badge">
         <img src="https://img.shields.io/badge/DESARROLLADOR%20ESPECIALIZADO%20EN%20ANGULAR%2018-7d5bdd?style=for-the-badge">
     </div>
